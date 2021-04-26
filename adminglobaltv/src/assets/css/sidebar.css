@@ -1,0 +1,24 @@
+.side{
+    background-color:rgb(39, 75, 184);
+    height:auto;
+    padding-right: 10px;
+}
+
+.hover:hover{
+    background-color:rgb(22, 49, 129);
+    border-left: 10px solid rgb(13, 36, 104);
+}
+.hover{
+    width:100%;
+    cursor:pointer
+}
+
+.hover:active{
+    border-left: 10px solid rgb(13, 36, 104);
+}
+.hover:visited{
+    border-left: 10px solid rgb(13, 36, 104);
+}
+.yoi:hover{
+    background-color:rgb(13, 36, 104)
+}

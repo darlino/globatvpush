@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Lato:wght@300&family=Montserrat:wght@300&family=Nunito&display=swap');*
+
+body{
+    background-color:#1a1a2c
+}
+
+a{
+    color:"#fff"
+}
+
+a:hover{
+    text-decoration:none;
+    color:"#fff"
+}

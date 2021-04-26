@@ -1,0 +1,14 @@
+@media  screen and (min-width : 900px) {
+    .bp{
+        display: none;
+    }
+}
+
+body{
+    text-decoration: none;
+
+}
+
+a:hover{
+    text-decoration: none;
+}

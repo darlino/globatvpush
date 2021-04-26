@@ -1,0 +1,31 @@
+.view_port{
+    background-color: #22223de7;
+    overflow:auto;
+    font-family:"Lato"
+}
+
+.footer-card{
+    text-align: center;
+    font-family: Alata;
+    
+}
+
+.footer-card:hover{
+    text-decoration: none;
+}
+
+.icon:hover{
+    transform:scale(1.2);
+    transition: .3s
+}
+
+.icon{
+    transition: .3s
+}
+
+ul {
+    background-color: none;
+}
+li{
+    background-color: none;
+}

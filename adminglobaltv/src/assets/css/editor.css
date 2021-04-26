@@ -1,0 +1,15 @@
+.editor-class {
+    background-color:lightgray;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    color:black
+  }
+  .toolbar-class {
+    border: 1px solid #ccc;
+    background-color: #21213B;
+  }
+  .wrapper-class {
+    padding: 1rem;
+    border: 1px solid #ccc;
+    height: 80%
+  }
